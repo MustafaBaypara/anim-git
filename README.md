@@ -1,6 +1,6 @@
 # anim-git
   
-personal git gui for anim  
+git gui for anim personal git storage 
   
   
 ![image](https://github.com/MustafaBaypara/anim-git/assets/94145699/02007901-1c11-4f47-ad75-0731702f58b7)  
